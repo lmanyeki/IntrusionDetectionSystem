@@ -1,0 +1,5 @@
+Duration,Protocol_Type,Service,Flag,src_bytes,dst_bytes,Class
+0,TCP,http,normal,200,1500,normal
+2,UDP,http,normal,1000,2000,attack
+0,TCP,http,normal,300,500,normal
+5,TCP,ftp,normal,400,600,attack
