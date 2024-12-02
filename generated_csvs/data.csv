@@ -1,0 +1,11 @@
+Duration,Protocol_Type,Service,Flag,src_bytes,dst_bytes,Class
+45,ICMP,ftp,REJ,583,567,Low
+64,TCP,smtp,SF,257,170,Medium
+64,UDP,smtp,RSTO,555,276,High
+90,ICMP,ftp,SF,578,536,Low
+91,UDP,http,SF,449,230,High
+78,UDP,smtp,SF,806,863,Medium
+86,UDP,smtp,REJ,959,737,Normal
+76,UDP,smtp,SF,382,646,High
+25,UDP,smtp,RSTO,25,369,Normal
+60,UDP,ftp,SF,356,516,Normal
